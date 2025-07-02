@@ -29,20 +29,17 @@
 
 ---
 
-### 📱 Flutter Projects Showcase
+<!-- ### 📱 Flutter Projects Showcase
 
 🔹 **Project 1**: [Awesome Flutter App](https://github.com/Dizainer05/awesome-flutter-app) *(State Management, Firebase)*  
 🔹 **Project 2**: [Mobile Dashboard UI](https://github.com/Dizainer05/mobile-dashboard-ui) *(Responsive Design, Animations)*  
 🔹 **Project 3**: [E-commerce App](https://github.com/Dizainer05/ecommerce-app) *(Bloc, Payment Integration)*  
 
----
+--- -->
 
 ### 📫 How to reach me
 
 <div align="center">
-  <a href="mailto:nosko.adrian2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A&color=1A1A1A" alt="Gmail" />
-  </a>
   <a href="https://discord.com/users/dizainer2005" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1A1A&color=1A1A1A" alt="Discord" />
   </a>
@@ -53,7 +50,3 @@
 
 ---
 
-<div align="center">
-  <!-- Рабочая змейка -->
-  ![Snake animation](https://github.com/Dizainer05/Dizainer05/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
